@@ -1,4 +1,4 @@
-# Wild2000: Dataset
+# Wild2000: Wild Virtual try-on Dataset
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Dataset Size](https://img.shields.io/badge/dataset_size-2000_samples-blue)](dataset)
@@ -13,9 +13,7 @@ Welcome to the **Wild2000** dataset repository! This dataset is designed to supp
 ### Key Features
 - **Sample Size**: 2000 pairs samples, include models and cloth in the wild.
 - **Diverse Clothing Styles**: Includes a wide range of clothing categories such as tops, lowers, dresses, and accessories.
-- **Realistic Body Shapes and Poses**: Features various body shapes and natural poses to simulate real-world dressing scenarios.
 - **High-Resolution Images**: All samples are captured in high resolution to ensure detailed analysis.
-- **Annotations**: Each sample is annotated with detailed information, including clothing labels, body keypoints, and pose data.
 
 ### Sample Structure
 Each sample in the dataset is organized as follows:
@@ -31,26 +29,10 @@ Wild2000/
 │   └── ...
 └── README.md
 
-- **images/**: Contains high-resolution images of virtual try-on scenarios.
-- **annotations/**: Contains JSON files with detailed annotations for each image.
   
 
 ## Data Visualization
 
-### Clothing Distribution
-The dataset includes a wide variety of clothing items, with a focus on different categories such as tops, bottoms, dresses, and accessories. The distribution of clothing categories is shown in the following visualization:
-
-![Clothing Distribution](visualizations/clothing_distribution.png)
-
-### Body Shape Distribution
-The dataset captures diverse body shapes to ensure that the virtual dressing scenarios are representative of real-world variations. The distribution of body shapes is shown below:
-
-![Body Shape Distribution](visualizations/body_shape_distribution.png)
-
-### Pose Distribution
-To simulate natural dressing scenarios, the dataset includes a variety of poses. The distribution of poses is shown in the following visualization:
-
-![Pose Distribution](visualizations/pose_distribution.png)
 
 ## Getting Started
 
@@ -96,6 +78,6 @@ The Wild2000 dataset is released under the [MIT License](LICENSE). You are free 
 
 ## Contact
 
-For any questions or inquiries about the Wild2000 dataset, please contact us at [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries about the Wild2000 dataset, please contact us at [your.email@example.com](jinwei@zcmu.edu.cn).
 
 Thank you for your interest in the Wild2000 dataset! We hope it helps advance your research and development in the exciting field of virtual dressing and fashion AI.
