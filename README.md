@@ -52,7 +52,7 @@ Wild2000/
 ## Getting Started
 
 ### Downloading the Dataset
-You can download the dataset from the [Wild2000 Release Page]( google link!!!)
+You can download the dataset from the [Wild2000 Release Page]( https://drive.google.com/drive/folders/10htLJK0AWuYQ1yKJhlCNfHj_UFMb7mu4?usp=sharing )
 
 
 ### Usage
